@@ -1,13 +1,14 @@
 import {Component} from 'angular2/core';
 import {TodoListComponent} from "./todolist.component";
+import {InternshipEntryComponent} from "./internshipEntry.component";
 
 @Component({
     selector: 'my-app',
     template: `
     This is the app component
-    <todo-list></todo-list>
+    <internship-entry></internship-entry>
     `,
-    directives: [TodoListComponent]
+    directives: [InternshipEntryComponent]
 })
 export class AppComponent {
 
