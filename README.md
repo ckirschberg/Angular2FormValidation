@@ -1,4 +1,4 @@
-# Angular 2 Beta - TodoExample
+# Angular 2 - Form Validation Example
 
 ## Description
 
@@ -6,7 +6,7 @@
 Follow the following steps and you're good to go! Important: Typescript and npm has to be installed on your machine!
 1: Clone repo
 ```
-git clone
+git clone https://github.com/ckirschberg/Angular2FormValidation.git
 ```
 2: Install packages
 ```
